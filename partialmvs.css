@@ -1,0 +1,5 @@
+﻿body
+*[class~="animal"] { background : lime }
+*[lang|="es"] { color : red; background : yellow }
+*[src|="ring"] { background : fuchsia }
+*[src|="box"] { background : aqua }
