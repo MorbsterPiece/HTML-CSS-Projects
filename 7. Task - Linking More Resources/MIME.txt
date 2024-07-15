@@ -1,0 +1,5 @@
+
+
+
+MIME (Multipart Internet Mail Extension) types describe file types – such as text/html for HTML files. 
+You can find the list of official MIME types at iana.org/assignments/media-types/media-types.xhtml
